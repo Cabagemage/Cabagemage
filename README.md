@@ -1,4 +1,7 @@
-### Hi there 👋
+# Обо мне
+### Привет! Меня зовут Андрей, мне 24 года и я занимаюсь фронтенд-разработкой. 
+
+
 
 <!--
 **Cabagemage/Cabagemage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
