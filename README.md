@@ -13,7 +13,7 @@
 - Немного опыта во Vue. 
 
 ## Мое состояние после завершения очередного проекта: 
-<img src="https://i.gifer.com/7tl.gif" />
+![](tulen.gif)
 
 <!--
 **Cabagemage/Cabagemage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
