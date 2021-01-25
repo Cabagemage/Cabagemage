@@ -16,7 +16,7 @@
 Turbina -  командный проект для НКО, книжного магазина "Маршак". Идея проекта состоит в объединении детского и взрослого творчества. 
 Представленные аудиозаписи в проекте являются тестовыми.  
 Выполнен при использовании React.JS, CSS3(Flex)
-<link  src="https://cabagemage.github.io/turbina-app/">Turbina</link>
+<link  href="https://cabagemage.github.io/turbina-app/">Turbina</link>
 
 #### 
 ## Мое состояние после завершения очередного проекта: 
