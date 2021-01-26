@@ -10,6 +10,7 @@
 - JavaScript 
 - HTML5 
 - CSS3
+- SCSS
 - Немного опыта во Vue.
 
 ## Портфолио
