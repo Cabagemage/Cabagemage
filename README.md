@@ -6,7 +6,7 @@
 - Express.js 
 - MONGO.DB 
 ### Frontend
-- React.JS  
+- React.JS + Redux
 - JavaScript 
 - HTML5 
 - CSS3
