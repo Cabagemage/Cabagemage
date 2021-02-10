@@ -2,12 +2,7 @@
 ### Привет! Меня зовут Андрей, мне 24 года и я занимаюсь веб-разработкой.
 ### Контакты
 
- http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
- http://i.imgur.com/yCsTjba.png (google plus icon with padding)
- http://i.imgur.com/YckIOms.png (tumblr icon with padding)
- http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
- http://i.imgur.com/0o48UoR.png (github icon with padding)
+![alt text](example.com/logo.png)
 ## Мой стак
 ### Backend
 - Express.js 
