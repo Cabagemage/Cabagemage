@@ -1,8 +1,8 @@
 # Обо мне
 ### Привет! Меня зовут Андрей, мне 24 года и я занимаюсь веб-разработкой.
 ### Контакты
-
-![ВК](https://w7.pngwing.com/pngs/863/431/png-transparent-computer-icons-vk-css-sprites-loghi-text-desktop-wallpaper-computer-icons-thumbnail.png)
+![facebook.com/Cabagemage](facebook.png)
+ 
 ## Мой стак
 ### Backend
 - Express.js 
