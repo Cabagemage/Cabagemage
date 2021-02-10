@@ -2,7 +2,7 @@
 ### Привет! Меня зовут Андрей, мне 24 года и я занимаюсь веб-разработкой.
 ### Контакты
 
-![alt text](example.com/logo.png)
+![ВК](https://w7.pngwing.com/pngs/863/431/png-transparent-computer-icons-vk-css-sprites-loghi-text-desktop-wallpaper-computer-icons-thumbnail.png)
 ## Мой стак
 ### Backend
 - Express.js 
