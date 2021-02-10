@@ -1,7 +1,7 @@
 # Обо мне
 ### Привет! Меня зовут Андрей, мне 24 года и я занимаюсь веб-разработкой.
 ### Контакты
-![Link to facebook.com/Cabagemage](facebook.png)
+![facebook.com/Cabagemage](facebook.png)
  
 ## Мой стак
 ### Backend
