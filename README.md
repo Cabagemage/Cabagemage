@@ -18,9 +18,6 @@
 - SCSS
 - Немного опыта во Vue.
 
-#### 
-## Мое состояние после завершения очередного проекта: 
-![](tulen.gif)
 
 <!--
 **Cabagemage/Cabagemage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
