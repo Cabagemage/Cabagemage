@@ -3,7 +3,7 @@
 
 ### Контакты
 <a href="http://facebook.com/Cabagemage" target="_blank"><img src="facebook.png" /></a>
-<a href="https://t.me/Cabagemage" target="_blank"><img src="TG.jpg" /></a>
+<a href="https://t.me/MergeContent" target="_blank"><img src="TG.jpg" /></a>
 <a href="https://www.linkedin.com/in/cabagemage/" target="_blank"><img src="linkedin.png" /></a>
 
 ## Мой стак
