@@ -8,7 +8,8 @@
 ## Мой стак
 ### Backend
 - Express.js 
-- MONGO.DB 
+- MONGO.DB
+- В перспективах Java
 ### Frontend
 - React.JS + Redux
 - JavaScript 
