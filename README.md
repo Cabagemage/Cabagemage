@@ -11,7 +11,7 @@
 - MONGO.DB
 - В перспективах Java
 ### Frontend
-- React.JS + Redux
+- React.JS + Redux + Thunk
 - JavaScript 
 - HTML5 
 - CSS3
